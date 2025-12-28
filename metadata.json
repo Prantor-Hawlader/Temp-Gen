@@ -1,0 +1,4 @@
+{
+  "name": "Code Generator",
+  "description": "Generate production-ready microservice templates for Node.js/TypeScript and Go with clean architecture patterns."
+}
